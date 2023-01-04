@@ -1,0 +1,1 @@
+[1.JavaScript-ga kirish](https://javascript.info/intro)

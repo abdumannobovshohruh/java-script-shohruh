@@ -1,1 +1,0 @@
-# java-script-shohruh
